@@ -1,3 +1,7 @@
+## Apresentação
+
+Este é um dos projetos que fiz no curso web moderno da Cod3r: https://www.cod3r.com.br/courses/web-moderno
+
 # Projeto calculadora
 
 Esse projeto visa imitar o funcionamento da calculadora do MacOS.
